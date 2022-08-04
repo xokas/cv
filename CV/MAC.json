@@ -1,0 +1,866 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Joaquin",
+      "surnames": "Lousa Vidal",
+      "title": "Backend developer and dreamer",
+      "description": "I'm a Java and freak developer looking for remote jobs because I love to live in a small town. As my master Obi Wan says: Long live and prosper! ",
+      "location": {
+        "notes": "Salamanca"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/xokas"
+      },
+      {
+        "type": "other",
+        "URL": "https://stackoverflow.com/users/3257193/xokas"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/juakolousa"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/joaquinlousa/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Sparta Commodities S.L.",
+          "image": {
+            "alt": "logo.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/053fa3d7-b45a-41d3-aece-a7800a3900c8_logo.svg"
+          },
+          "URL": "https://spartacommodities.com/"
+        },
+        "roles": [
+          {
+            "name": "Backend developer",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": "Backend development with Python and Kotlin. \nImprovement of onboarding proccess and documents."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Kafka",
+                "type": "technology"
+              },
+              {
+                "name": "Kotlin",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Redis",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "WebSockets",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kineox - Grupo Liberto (Formerly IMSolutions) ",
+          "image": {
+            "alt": "logo--orange.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/088ca3f6-8bf8-4742-8a7d-b295ace992f6_logo--orange.svg"
+          },
+          "URL": "https://kineox.com/"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2017-09-01",
+            "finishDate": "2022-01-01",
+            "challenges": [
+              {
+                "description": "Front and Back development, unit testing, code reviews, optimization: Java, Spring, Hibernate, AJAX, JSON, MySQL.\nDefinition and documentation of Restful and SOAP APIs. Integration with third party software.\nUser support, incident resolution, improvement and optimization of internal tools and applications.\nOnboarding proccesses, documentation and methodology improvements.\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tau Factory of Things",
+          "image": {
+            "alt": "TAU_F_1.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/972e8e8a-f2c2-4f4d-803f-47e201651a0b_tau_f_1.png"
+          },
+          "URL": "https://www.taufactoryofthings.com"
+        },
+        "roles": [
+          {
+            "name": "Software Architect & Founder",
+            "startDate": "2016-12-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": "Definition of IoT and BigData software projects"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Hadoop",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "Splunk",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Nest Network",
+          "image": {
+            "alt": "logo_cab_nestwork.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/58d115fa-915a-47ea-ba42-f00b0f8a51fe_logo_cab_nestwork.jpg"
+          },
+          "URL": "https://web.archive.org/web/20201201091911/http://nestwork.eu/"
+        },
+        "roles": [
+          {
+            "name": "Software Architect & Dev Ops",
+            "startDate": "2012-12-01",
+            "finishDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": "Development of web platform tracking personal GPS security devices.\nDesign and development of internal CRM applications of the company for customer support, inventory management, devices and commercial actions.\nDesign and development of systems integration APIs: Sockets UDP and TCP, HTTP, Web Services, JSON, XML\n"
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Apache Tomcat",
+                "type": "technology"
+              },
+              {
+                "name": "Google Maps",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSON",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "XML",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Abast Grup",
+          "image": {
+            "alt": "logo_abast_alargado.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/633423b4-0338-4218-8f91-5e600f25a85e_logo_abast_alargado.png"
+          },
+          "URL": "https://www.abast.es/"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2010-09-01",
+            "finishDate": "2012-12-01",
+            "challenges": [
+              {
+                "description": "Analysis and development of applications for the Cobra Group intranet, responsible and technical reference of the team. User support, incident resolution, improvement and optimization of solutions for the Cobra Group client."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSF",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance",
+          "URL": "https://www.jlousa.net"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2009-07-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": "Design and development of web pages and CMS."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JSP",
+                "type": "technology"
+              },
+              {
+                "name": "Less CSS",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Smarty",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atos Origin",
+          "image": {
+            "alt": "Atos-Origin-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/d7cf63c6-a27a-4f1a-aad7-75ef725fc30a_atos-origin-logo.png"
+          },
+          "URL": "https://atos.net/es/spain"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2006-06-01",
+            "finishDate": "2010-08-01",
+            "challenges": [
+              {
+                "description": "Analysis and development of web management applications, and CMS based on document managers, Web accessibility certifications and W3C code quality (WAI - AA)."
+              }
+            ],
+            "competences": [
+              {
+                "name": "AJAX",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Hibernate",
+                "type": "technology"
+              },
+              {
+                "name": "JAVA",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Oracle",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Spring",
+                "type": "technology"
+              },
+              {
+                "name": "Struts",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Seinco",
+          "image": {
+            "alt": "20120817110803_1159837.jpg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/95db14df-0b43-4cd4-bef3-1814b4d7c92f_20120817110803_11598.jpg"
+          },
+          "URL": "https://www.seinco.es/"
+        },
+        "roles": [
+          {
+            "name": "Full-Stack developer",
+            "startDate": "2005-06-01",
+            "finishDate": "2006-06-01",
+            "challenges": [
+              {
+                "description": "Development of web tracking tools for fleets and GPS devices."
+              }
+            ],
+            "competences": [
+              {
+                "name": "ASP",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Basic",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Oracle",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Introduction to AWS",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-07-01",
+        "institution": {
+          "name": "A Cloud Guru",
+          "description": "https://acloudguru.com/course/introduction-to-aws",
+          "URL": "https://acloudguru.com/",
+          "image": {
+            "alt": "download.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/669e8b75-495e-46ef-9a9a-2d372c94732b_download.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AWS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Automated Software Testing: Practical Skills for Java Developers",
+        "startDate": "2018-12-01",
+        "finishDate": "2019-01-01",
+        "institution": {
+          "name": "Edx - Delft University of Technology",
+          "URL": "https://www.edx.org/",
+          "image": {
+            "alt": "edx-logo-elm.svg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/44d4483f-c694-4b68-8950-2811739f4982_edx-logo-elm.svg"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Big Data",
+        "startDate": "2017-03-01",
+        "finishDate": "2017-08-01",
+        "institution": {
+          "name": "Coursera",
+          "description": "Introduction to Big Data\nMachine Learning With Big Data\nBig Data Integration and Processing\nBig Data Modeling and Management Systems",
+          "URL": "https://es.coursera.org/",
+          "image": {
+            "alt": "download.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/be562fdf-61cc-4bba-be1f-dbbb806e6a29_download.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Hadoop",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Splunk",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Seguridad informática práctica",
+        "startDate": "2016-06-01",
+        "finishDate": "2017-07-01",
+        "institution": {
+          "name": "Miriadax - Universidad Politécnica de Valencia",
+          "URL": "https://miriadax.net/",
+          "image": {
+            "alt": "logo_mx_1x.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/081145b2-c029-485d-9969-81e1b29fc11c_logo_mx_1x.png"
+          }
+        }
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Android: Programación de Aplicaciones",
+        "startDate": "2013-01-01",
+        "finishDate": "2013-04-01",
+        "institution": {
+          "name": "Miriadax - Universidad Politécnica de Valencia",
+          "URL": "https://miriadax.net/",
+          "image": {
+            "alt": "logo_mx_1x.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/f2ea9d30-acb6-45dc-ad14-7044727d67a7_logo_mx_1x.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "Android",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Web Development in PHP",
+        "startDate": "2012-01-01",
+        "finishDate": "2012-03-01",
+        "institution": {
+          "name": "Idesweb",
+          "URL": "http://idesweb.es/"
+        },
+        "linkedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Web Technologies",
+        "startDate": "2007-01-01",
+        "finishDate": "2008-12-01",
+        "institution": {
+          "name": "Atos Origin",
+          "description": "Web Technologies: Ajax, Java J2EE, HTML, XML, CSS (60 hours)\nGea Platform: Java J2EE, Struts, Spring, Hibernate, POO (50 hours)",
+          "URL": "https://atos.net/es/spain",
+          "image": {
+            "alt": "Atos-Origin-logo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/bf84fc97-c8aa-4874-9062-f04f136eb289_atos-origin-logo.png"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "AJAX",
+            "type": "technology"
+          },
+          {
+            "name": "CSS",
+            "type": "technology"
+          },
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "Hibernate",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "Spring",
+            "type": "technology"
+          },
+          {
+            "name": "Struts",
+            "type": "technology"
+          },
+          {
+            "name": "XML",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Técnico superior en desarrollo de aplicaciones informáticas",
+        "startDate": "2002-09-01",
+        "finishDate": "2004-06-01",
+        "institution": {
+          "name": "IES Venancio Blanco",
+          "URL": "https://www.iesvenancioblanco.es/",
+          "image": {
+            "alt": "Screenshot from 2022-07-26 00-09-17.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/0330f97b-a723-4bfe-81ce-9c44f9f3c664_screenshot-from-2022.png"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Diplomado en Estadística",
+        "startDate": "1998-09-01",
+        "finishDate": "2004-06-01",
+        "institution": {
+          "name": "Universidad de Salamanca",
+          "URL": "https://www.usal.es/facultad-de-ciencias",
+          "image": {
+            "alt": "logo_usal.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/8243e6e8-fb30-4d8b-8c5d-6bda954e79fb_logo_usal.png"
+          }
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/joaquinlousa/"
+        },
+        {
+          "type": "other",
+          "URL": "https://stackoverflow.com/users/3257193/xokas"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
