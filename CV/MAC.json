@@ -1,8 +1,7 @@
 {
-  "schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
     "language": "EN",
-    "lastUpdate": "2022-08-04",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -12,14 +11,13 @@
       "title": "Backend developer",
       "description": "I'm a Java and freak developer looking for remote jobs because I love to live in a small town. As my master Obi Wan says: Long live and prosper! ",
       "avatar": {
-          "alt": "Joaquin Lousa's photo",
-          "link": "https://media-exp1.licdn.com/dms/image/C4D03AQEuaBdccfL8eA/profile-displayphoto-shrink_800_800/0/1516868541244?e=1665014400&v=beta&t=XywTwdURowPJl9V3IcW6gfnILdLJ4v9_9UhKlWE6zRU"
+        "alt": "Joaquin Lousa's photo",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/c89ff7a1-2486-478f-a300-a9162080d99d_1516868541244.1516868541244"
       },
       "location": {
         "notes": "Salamanca"
       }
     },
-    "relevantYearsOfExperience": 15,
     "relevantLinks": [
       {
         "type": "github",
@@ -46,7 +44,7 @@
           "name": "Sparta Commodities S.L.",
           "image": {
             "alt": "Sparta Logo",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/053fa3d7-b45a-41d3-aece-a7800a3900c8_logo.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/908fba95-b6e0-4dcf-a461-67fe5dbef229_053fa3d7-b45a-41d3-a.svg"
           },
           "URL": "https://spartacommodities.com/"
         },
@@ -110,7 +108,7 @@
           "name": "Kineox - Grupo Liberto (Formerly IMSolutions) ",
           "image": {
             "alt": "logo--orange.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/088ca3f6-8bf8-4742-8a7d-b295ace992f6_logo--orange.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/529d0fc3-1cdc-4863-b949-f3f0d29f9c2d_088ca3f6-8bf8-4742-8.svg"
           },
           "URL": "https://kineox.com/"
         },
@@ -170,7 +168,7 @@
           "name": "Tau Factory of Things",
           "image": {
             "alt": "TAU_F_1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/972e8e8a-f2c2-4f4d-803f-47e201651a0b_tau_f_1.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/5e554d20-3d61-4763-bdf2-2775e9eca420_972e8e8a-f2c2-4f4d-8.png"
           },
           "URL": "https://www.taufactoryofthings.com"
         },
@@ -210,7 +208,7 @@
           "name": "The Nest Network",
           "image": {
             "alt": "logo_cab_nestwork.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/58d115fa-915a-47ea-ba42-f00b0f8a51fe_logo_cab_nestwork.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/f9ec55f6-d07b-43ae-95d6-110ae9e28cd8_58d115fa-915a-47ea-b.jpg"
           },
           "URL": "https://web.archive.org/web/20201201091911/http://nestwork.eu/"
         },
@@ -298,7 +296,7 @@
           "name": "Abast Grup",
           "image": {
             "alt": "logo_abast_alargado.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/633423b4-0338-4218-8f91-5e600f25a85e_logo_abast_alargado.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/a92e9954-c664-4a65-8e7d-7386fdb86b97_633423b4-0338-4218-8.png"
           },
           "URL": "https://www.abast.es/"
         },
@@ -430,7 +428,7 @@
           "name": "Atos Origin",
           "image": {
             "alt": "Atos-Origin-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/d7cf63c6-a27a-4f1a-aad7-75ef725fc30a_atos-origin-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/67f710a7-4c99-4483-b600-8ec479fa7941_d7cf63c6-a27a-4f1a-a.png"
           },
           "URL": "https://atos.net/es/spain"
         },
@@ -502,7 +500,7 @@
           "name": "Seinco",
           "image": {
             "alt": "20120817110803_1159837.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/95db14df-0b43-4cd4-bef3-1814b4d7c92f_20120817110803_11598.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/689ec725-e49e-4e50-bb7c-a177a72da09c_95db14df-0b43-4cd4-b.jpg"
           },
           "URL": "https://www.seinco.es/"
         },
@@ -551,6 +549,9 @@
     "languages": [
       {
         "name": "English"
+      },
+      {
+        "name": "Galician"
       },
       {
         "name": "Spanish"
@@ -625,7 +626,7 @@
           "URL": "https://acloudguru.com/",
           "image": {
             "alt": "download.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/669e8b75-495e-46ef-9a9a-2d372c94732b_download.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/4ad40dfd-40e9-4651-a610-27510c0620fa_669e8b75-495e-46ef-9.jpeg"
           }
         },
         "linkedCompetences": [
@@ -646,7 +647,7 @@
           "URL": "https://www.edx.org/",
           "image": {
             "alt": "edx-logo-elm.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/44d4483f-c694-4b68-8950-2811739f4982_edx-logo-elm.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/ef11d741-b042-4486-b409-cda417e064a4_44d4483f-c694-4b68-8.svg"
           }
         }
       },
@@ -662,7 +663,7 @@
           "URL": "https://es.coursera.org/",
           "image": {
             "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/be562fdf-61cc-4bba-be1f-dbbb806e6a29_download.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/54518b14-c4a4-4a2c-98dd-b1c50d08cd09_be562fdf-61cc-4bba-b.png"
           }
         },
         "linkedCompetences": [
@@ -691,7 +692,7 @@
           "URL": "https://miriadax.net/",
           "image": {
             "alt": "logo_mx_1x.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/081145b2-c029-485d-9969-81e1b29fc11c_logo_mx_1x.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/1e153854-b4db-417c-9fd3-5f1987e45602_081145b2-c029-485d-9.png"
           }
         }
       },
@@ -706,7 +707,7 @@
           "URL": "https://miriadax.net/",
           "image": {
             "alt": "logo_mx_1x.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/f2ea9d30-acb6-45dc-ad14-7044727d67a7_logo_mx_1x.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/29d03599-2206-45e0-b4bf-e6ff69b83604_f2ea9d30-acb6-45dc-a.png"
           }
         },
         "linkedCompetences": [
@@ -765,7 +766,7 @@
           "URL": "https://atos.net/es/spain",
           "image": {
             "alt": "Atos-Origin-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/bf84fc97-c8aa-4874-9062-f04f136eb289_atos-origin-logo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/227f7dc9-8600-45bc-b529-3eb9b16ebec6_bf84fc97-c8aa-4874-9.png"
           }
         },
         "linkedCompetences": [
@@ -814,7 +815,7 @@
           "URL": "https://www.iesvenancioblanco.es/",
           "image": {
             "alt": "Screenshot from 2022-07-26 00-09-17.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/0330f97b-a723-4bfe-81ce-9c44f9f3c664_screenshot-from-2022.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/65221c31-fa03-403d-83e1-f143ee231d3c_0330f97b-a723-4bfe-8.png"
           }
         }
       },
@@ -829,7 +830,7 @@
           "URL": "https://www.usal.es/facultad-de-ciencias",
           "image": {
             "alt": "logo_usal.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/8243e6e8-fb30-4d8b-8c5d-6bda954e79fb_logo_usal.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/95be1a6b-05c1-4436-88c6-c414212e6004_8243e6e8-fb30-4d8b-8.png"
           }
         }
       }
