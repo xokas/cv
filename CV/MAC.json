@@ -1,19 +1,25 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
     "language": "EN",
+    "lastUpdate": "2022-08-04",
     "MACVersion": "0.3"
   },
   "aboutMe": {
     "profile": {
       "name": "Joaquin",
       "surnames": "Lousa Vidal",
-      "title": "Backend developer and dreamer",
+      "title": "Backend developer",
       "description": "I'm a Java and freak developer looking for remote jobs because I love to live in a small town. As my master Obi Wan says: Long live and prosper! ",
+      "avatar": {
+          "alt": "Joaquin Lousa's photo",
+          "link": "https://media-exp1.licdn.com/dms/image/C4D03AQEuaBdccfL8eA/profile-displayphoto-shrink_800_800/0/1516868541244?e=1665014400&v=beta&t=XywTwdURowPJl9V3IcW6gfnILdLJ4v9_9UhKlWE6zRU"
+      },
       "location": {
         "notes": "Salamanca"
       }
     },
+    "relevantYearsOfExperience": 15,
     "relevantLinks": [
       {
         "type": "github",
@@ -39,7 +45,7 @@
         "organization": {
           "name": "Sparta Commodities S.L.",
           "image": {
-            "alt": "logo.svg",
+            "alt": "Sparta Logo",
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/25/053fa3d7-b45a-41d3-aece-a7800a3900c8_logo.svg"
           },
           "URL": "https://spartacommodities.com/"
@@ -48,7 +54,7 @@
           {
             "name": "Backend developer",
             "startDate": "2022-02-01",
-            "finishDate": "2022-07-01",
+            "finishDate": "2022-07-11",
             "challenges": [
               {
                 "description": "Backend development with Python and Kotlin. \nImprovement of onboarding proccess and documents."
