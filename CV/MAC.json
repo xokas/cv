@@ -37,6 +37,64 @@
       }
     ]
   },
+  "significativeRelationships": [
+    {
+      "name": "Adrian",
+      "surnames": "Matellanes",
+      "title": "Global Head of Digital Experience Technologies at Nestlé",
+      "description": "Que siempre consigue mostrarme enfoques nuevos y originales y motivarme para llevar a cabo mis proyectos.",
+      "contact": {
+        "publicProfiles": [
+          {
+            "type": "linkedin",
+            "URL": "https://www.linkedin.com/in/amatellanes/"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Manuel",
+      "surnames": "Tome Arostegui",
+      "title": "Software Engineer at PwC Experience Center",
+      "description": "Alguien a quien siempre puedo recurrir para resolver dudas de elegancia y optimización de código.",
+      "contact": {
+        "publicProfiles": [
+          {
+            "type": "linkedin",
+            "URL": "https://www.linkedin.com/in/manutome/"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ramon",
+      "surnames": "Silva",
+      "title": "Digital Marketing Freelance Expert",
+      "description": "Todo un referente para nuevas tendencias en internet.",
+      "contact": {
+        "publicProfiles": [
+          {
+            "type": "linkedin",
+            "URL": "https://www.linkedin.com/in/ramonsilvaconstenla/"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sergio",
+      "surnames": "Garcia Astudillo",
+      "title": "Product Manager at Goiko",
+      "description": "Todo un experto en gestión de proyectos y negocio, alguien que me ayuda a ver más allá del código.",
+      "contact": {
+        "publicProfiles": [
+          {
+            "type": "linkedin",
+            "URL": "https://www.linkedin.com/in/sergio-garcia-astudillo-805952173/"
+          }
+        ]
+      }
+    }
+  ],
   "experience": {
     "jobs": [
       {
