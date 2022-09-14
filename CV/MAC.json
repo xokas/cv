@@ -12,10 +12,12 @@
       "description": "I'm a Java and freak developer looking for remote jobs because I love to live in a small town. As my master Obi Wan says: Long live and prosper! ",
       "avatar": {
         "alt": "Joaquin Lousa's photo",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/c89ff7a1-2486-478f-a300-a9162080d99d_1516868541244.1516868541244"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/af8d9c42-85ea-4587-96c2-0e57faf2a832_c89ff7a1-2486-478f-a.1516868541244"
       },
       "location": {
-        "notes": "Salamanca"
+        "country": "España",
+        "region": "Castilla y León",
+        "municipality": "Salamanca"
       }
     },
     "relevantLinks": [
@@ -37,64 +39,6 @@
       }
     ]
   },
-  "significativeRelationships": [
-    {
-      "name": "Adrian",
-      "surnames": "Matellanes",
-      "title": "Global Head of Digital Experience Technologies at Nestlé",
-      "description": "Que siempre consigue mostrarme enfoques nuevos y originales y motivarme para llevar a cabo mis proyectos.",
-      "contact": {
-        "publicProfiles": [
-          {
-            "type": "linkedin",
-            "URL": "https://www.linkedin.com/in/amatellanes/"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Manuel",
-      "surnames": "Tome Arostegui",
-      "title": "Software Engineer at PwC Experience Center",
-      "description": "Alguien a quien siempre puedo recurrir para resolver dudas de elegancia y optimización de código.",
-      "contact": {
-        "publicProfiles": [
-          {
-            "type": "linkedin",
-            "URL": "https://www.linkedin.com/in/manutome/"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Ramon",
-      "surnames": "Silva",
-      "title": "Digital Marketing Freelance Expert",
-      "description": "Todo un referente para nuevas tendencias en internet.",
-      "contact": {
-        "publicProfiles": [
-          {
-            "type": "linkedin",
-            "URL": "https://www.linkedin.com/in/ramonsilvaconstenla/"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Sergio",
-      "surnames": "Garcia Astudillo",
-      "title": "Product Manager at Goiko",
-      "description": "Todo un experto en gestión de proyectos y negocio, alguien que me ayuda a ver más allá del código.",
-      "contact": {
-        "publicProfiles": [
-          {
-            "type": "linkedin",
-            "URL": "https://www.linkedin.com/in/sergio-garcia-astudillo-805952173/"
-          }
-        ]
-      }
-    }
-  ],
   "experience": {
     "jobs": [
       {
@@ -102,7 +46,7 @@
           "name": "Sparta Commodities S.L.",
           "image": {
             "alt": "Sparta Logo",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/908fba95-b6e0-4dcf-a461-67fe5dbef229_053fa3d7-b45a-41d3-a.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/8bf50018-fd33-4be0-bc08-71d2ecc1b143_908fba95-b6e0-4dcf-a.svg"
           },
           "URL": "https://spartacommodities.com/"
         },
@@ -166,7 +110,7 @@
           "name": "Kineox - Grupo Liberto (Formerly IMSolutions) ",
           "image": {
             "alt": "logo--orange.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/529d0fc3-1cdc-4863-b949-f3f0d29f9c2d_088ca3f6-8bf8-4742-8.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/d4aba50d-d8f7-4483-b654-f6369b30c3b1_529d0fc3-1cdc-4863-b.svg"
           },
           "URL": "https://kineox.com/"
         },
@@ -226,7 +170,7 @@
           "name": "Tau Factory of Things",
           "image": {
             "alt": "TAU_F_1.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/5e554d20-3d61-4763-bdf2-2775e9eca420_972e8e8a-f2c2-4f4d-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/4aa7dc69-aa5d-4d2f-8c2c-601f30e45bf9_5e554d20-3d61-4763-b.png"
           },
           "URL": "https://www.taufactoryofthings.com"
         },
@@ -266,7 +210,7 @@
           "name": "The Nest Network",
           "image": {
             "alt": "logo_cab_nestwork.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/f9ec55f6-d07b-43ae-95d6-110ae9e28cd8_58d115fa-915a-47ea-b.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/bd611cd6-519a-4fce-9194-83499798a130_f9ec55f6-d07b-43ae-9.jpg"
           },
           "URL": "https://web.archive.org/web/20201201091911/http://nestwork.eu/"
         },
@@ -354,7 +298,7 @@
           "name": "Abast Grup",
           "image": {
             "alt": "logo_abast_alargado.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/a92e9954-c664-4a65-8e7d-7386fdb86b97_633423b4-0338-4218-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/be7d00c9-e343-4bcd-ba70-102aa1e09fa5_a92e9954-c664-4a65-8.png"
           },
           "URL": "https://www.abast.es/"
         },
@@ -486,7 +430,7 @@
           "name": "Atos Origin",
           "image": {
             "alt": "Atos-Origin-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/67f710a7-4c99-4483-b600-8ec479fa7941_d7cf63c6-a27a-4f1a-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/e1a2ec08-edad-48b9-8bd9-7b5c0d576a55_67f710a7-4c99-4483-b.png"
           },
           "URL": "https://atos.net/es/spain"
         },
@@ -558,7 +502,7 @@
           "name": "Seinco",
           "image": {
             "alt": "20120817110803_1159837.jpg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/689ec725-e49e-4e50-bb7c-a177a72da09c_95db14df-0b43-4cd4-b.jpg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/a9521667-8410-4d1b-b20a-e9b40c6a75f6_689ec725-e49e-4e50-b.jpg"
           },
           "URL": "https://www.seinco.es/"
         },
@@ -609,34 +553,13 @@
         "name": "English"
       },
       {
-        "name": "Galician"
-      },
-      {
         "name": "Spanish"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "JAVA",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Kotlin",
           "type": "technology"
         }
       },
@@ -648,13 +571,13 @@
       },
       {
         "skill": {
-          "name": "MySQL",
+          "name": "PHP",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQLServer",
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -666,7 +589,25 @@
       },
       {
         "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kotlin",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
           "type": "technology"
         }
       }
@@ -684,7 +625,7 @@
           "URL": "https://acloudguru.com/",
           "image": {
             "alt": "download.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/4ad40dfd-40e9-4651-a610-27510c0620fa_669e8b75-495e-46ef-9.jpeg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/0f493b11-db4c-487e-823d-6bd3fc53c9cd_4ad40dfd-40e9-4651-a.jpeg"
           }
         },
         "linkedCompetences": [
@@ -705,7 +646,7 @@
           "URL": "https://www.edx.org/",
           "image": {
             "alt": "edx-logo-elm.svg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/ef11d741-b042-4486-b409-cda417e064a4_44d4483f-c694-4b68-8.svg"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/37a68f40-711a-4ecc-a1db-4766b79c5967_ef11d741-b042-4486-b.svg"
           }
         }
       },
@@ -721,7 +662,7 @@
           "URL": "https://es.coursera.org/",
           "image": {
             "alt": "download.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/54518b14-c4a4-4a2c-98dd-b1c50d08cd09_be562fdf-61cc-4bba-b.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/867555e7-1359-4c87-8c14-47e486428820_54518b14-c4a4-4a2c-9.png"
           }
         },
         "linkedCompetences": [
@@ -750,7 +691,7 @@
           "URL": "https://miriadax.net/",
           "image": {
             "alt": "logo_mx_1x.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/1e153854-b4db-417c-9fd3-5f1987e45602_081145b2-c029-485d-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/08d03148-4bbe-45c3-9d8b-13a0656987fa_1e153854-b4db-417c-9.png"
           }
         }
       },
@@ -765,7 +706,7 @@
           "URL": "https://miriadax.net/",
           "image": {
             "alt": "logo_mx_1x.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/29d03599-2206-45e0-b4bf-e6ff69b83604_f2ea9d30-acb6-45dc-a.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/5ec62628-55de-4702-bbf1-4c57af481cf4_29d03599-2206-45e0-b.png"
           }
         },
         "linkedCompetences": [
@@ -824,7 +765,7 @@
           "URL": "https://atos.net/es/spain",
           "image": {
             "alt": "Atos-Origin-logo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/227f7dc9-8600-45bc-b529-3eb9b16ebec6_bf84fc97-c8aa-4874-9.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/92234e3d-3187-42e3-8a41-58247d64b646_227f7dc9-8600-45bc-b.png"
           }
         },
         "linkedCompetences": [
@@ -873,7 +814,7 @@
           "URL": "https://www.iesvenancioblanco.es/",
           "image": {
             "alt": "Screenshot from 2022-07-26 00-09-17.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/65221c31-fa03-403d-83e1-f143ee231d3c_0330f97b-a723-4bfe-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/066e95ad-02d4-4b2b-a0fc-39d2c3dc4896_65221c31-fa03-403d-8.png"
           }
         }
       },
@@ -888,7 +829,7 @@
           "URL": "https://www.usal.es/facultad-de-ciencias",
           "image": {
             "alt": "logo_usal.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/04/95be1a6b-05c1-4436-88c6-c414212e6004_8243e6e8-fb30-4d8b-8.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/184b8892-c26a-4f3a-a8b3-31e9da8580d5_95be1a6b-05c1-4436-8.png"
           }
         }
       }
