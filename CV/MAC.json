@@ -121,7 +121,7 @@
             "finishDate": "2022-01-01",
             "challenges": [
               {
-                "description": "Front and Back development, unit testing, code reviews, optimization: Java, Spring, Hibernate, AJAX, JSON, MySQL.\nDefinition and documentation of Restful and SOAP APIs. Integration with third party software.\nUser support, incident resolution, improvement and optimization of internal tools and applications.\nOnboarding proccesses, documentation and methodology improvements.\n"
+                "description": "Fintech founded in 2012, Kineox works to optimize collection processes through innovative and secure solutions that improve user experience and reinforce clients reputation. \n- Principal developer for Banco Sabadell (Kineox second client in income and projects).\n- Development of new features and bug fixing on web products, front and back with Java 7-8, Spring, Hibernate, JDBC, Javascript, JQuery, HTML, CSS, Bootstrap and MySQL.\n- Improvement and optimization of internal data tools, multithreading development of integration and data storage with Java 8, JDBC, MySQL.\n- Definition and documentation of Restful and SOAP APIs with Java 7-8 and Spring.\n- Documentation of new features and product versions, deployment history. Migration from SVN to GIT. Developers onboarding and training. \n- Documentation of software tools and creation of installation guides to improve the onboarding process of new developers and make the work of the development team known to the rest of the company.\n- User support, incident resolution, working with Operations department in product and new features definitions.\n"
               }
             ],
             "competences": [
