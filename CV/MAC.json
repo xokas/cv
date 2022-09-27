@@ -221,7 +221,7 @@
             "finishDate": "2016-11-01",
             "challenges": [
               {
-                "description": "Development of web platform tracking personal GPS security devices.\nDesign and development of internal CRM applications of the company for customer support, inventory management, devices and commercial actions.\nDesign and development of systems integration APIs: Sockets UDP and TCP, HTTP, Web Services, JSON, XML\n"
+                "description": "Nestwork was a startup focused on building a portfolio of IOT devices for personal safety, providing its users with the latest technology innovations and software solutions with great detail on design and user experience.\n- Development of a web platform for tracking personal GPS security devices.\n- Design and development of servers for managing devices. Development of new No-SQL database solution to storage GPS positions and events.\n- Design and development of internal CRM applications of the company for customer support, inventory management, devices and commercial actions.\n- Design and development of APIs for communications and integrations with devices, phones, Alarm Receiving Centers software, apps and webs, with Restful, SOA, TCP and UDP data transmission protocols and technologies.\n- Use of Test Driven Development as the main methodology for building software in cooperation with Commercial and Operations teams, with Cucumber, JUnit and Mockito.\n- All software and tools were built with Java 7-8, Struts 2, Spring, JDBC, Javascript, JQuery, HTML, CSS, SQLite and MariaDB.\n\n"
               }
             ],
             "competences": [
