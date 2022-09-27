@@ -57,7 +57,7 @@
             "finishDate": "2022-07-11",
             "challenges": [
               {
-                "description": "Backend development with Python and Kotlin. \nImprovement of onboarding proccess and documents."
+                "description": "The purpose of Sparta is to apply the latest technology and provide oil traders with only the most relevant and actionable data to make faster and smarter trading decisions. \n\n- Improvement of onboarding processes. Documentation of software, apps, tools and third party services, writing installation guides for software and development environments with Confluence.\n- Working with Scrum methodology through JIRA.\nIntegration with ICE News Feeds API and publishing in message platform with Java 11, AWS S3 and AWS Lambdas. \n- Automated reading of e-mail attachments to obtain data and process it to the Databases and Streaming platforms, with Python, AWS Lambdas, PostgreSQL, Kafka and RabbitMQ.\n- Development of new features and bug fixing for the backend of Sparta main product, with Java 11, Kotlin, Spring, Hibernate, Swagger and PostgreSQL. Testing, Code reviews, Pull requests and GitHub Actions.\n"
               }
             ],
             "competences": [
