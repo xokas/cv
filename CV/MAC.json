@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,7 +9,7 @@
       "name": "Joaquin",
       "surnames": "Lousa Vidal",
       "title": "Backend developer",
-      "description": "I'm a Java and freak developer looking for remote jobs because I love to live in a small town. As my master Obi Wan says: Long live and prosper! ",
+      "description": "",
       "avatar": {
         "alt": "Joaquin Lousa's photo",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/08/10/af8d9c42-85ea-4587-96c2-0e57faf2a832_c89ff7a1-2486-478f-a.1516868541244"
@@ -17,7 +17,8 @@
       "location": {
         "country": "España",
         "region": "Castilla y León",
-        "municipality": "Salamanca"
+        "municipality": "Salamanca",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -550,10 +551,12 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -643,6 +646,7 @@
         "finishDate": "2019-01-01",
         "institution": {
           "name": "Edx - Delft University of Technology",
+          "description": "",
           "URL": "https://www.edx.org/",
           "image": {
             "alt": "edx-logo-elm.svg",
@@ -688,6 +692,7 @@
         "finishDate": "2017-07-01",
         "institution": {
           "name": "Miriadax - Universidad Politécnica de Valencia",
+          "description": "",
           "URL": "https://miriadax.net/",
           "image": {
             "alt": "logo_mx_1x.png",
@@ -703,6 +708,7 @@
         "finishDate": "2013-04-01",
         "institution": {
           "name": "Miriadax - Universidad Politécnica de Valencia",
+          "description": "",
           "URL": "https://miriadax.net/",
           "image": {
             "alt": "logo_mx_1x.png",
@@ -728,6 +734,7 @@
         "finishDate": "2012-03-01",
         "institution": {
           "name": "Idesweb",
+          "description": "",
           "URL": "http://idesweb.es/"
         },
         "linkedCompetences": [
@@ -811,6 +818,7 @@
         "finishDate": "2004-06-01",
         "institution": {
           "name": "IES Venancio Blanco",
+          "description": "",
           "URL": "https://www.iesvenancioblanco.es/",
           "image": {
             "alt": "Screenshot from 2022-07-26 00-09-17.png",
@@ -826,6 +834,7 @@
         "finishDate": "2004-06-01",
         "institution": {
           "name": "Universidad de Salamanca",
+          "description": "",
           "URL": "https://www.usal.es/facultad-de-ciencias",
           "image": {
             "alt": "logo_usal.png",
@@ -866,7 +875,12 @@
           "name": "Python",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Full-stack Developer"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
