@@ -564,6 +564,18 @@
     "hardSkills": [
       {
         "skill": {
+          "name": "AngularJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JSON",
           "type": "technology"
         }
@@ -613,6 +625,12 @@
       {
         "skill": {
           "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Spring",
           "type": "technology"
         }
       }
@@ -911,6 +929,28 @@
     "status": "searchingActively"
   },
   "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AngularJS",
+        "type": "technology"
+      },
+      {
+        "name": "Bash",
+        "type": "technology"
+      },
+      {
+        "name": "JSON",
+        "type": "technology"
+      },
+      {
+        "name": "Java",
+        "type": "technology"
+      },
+      {
+        "name": "Spring",
+        "type": "technology"
+      }
+    ],
     "desiredJobDescription": "I love programming, this is my passion. I love to solve puzzles and build things too. So my perfect job is: developer and Lego tester in my hometown (or maybe in Betanzos) but that is a bit difficult so I try to do my best in every company with a great product, good technologies and clear objectives.",
     "goodPractices": "TDD, Solid"
   }
